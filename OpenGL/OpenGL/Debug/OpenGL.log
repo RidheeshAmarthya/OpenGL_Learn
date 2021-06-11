@@ -1,0 +1,3 @@
+﻿  Application.cpp
+C:\Users\Ridheesh\Desktop\OpenGL\OpenGL\src\Application.cpp(151,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+  OpenGL.vcxproj -> C:\Users\Ridheesh\Desktop\OpenGL\Debug\OpenGL.exe
